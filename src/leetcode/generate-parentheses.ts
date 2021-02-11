@@ -26,5 +26,6 @@ const backtrack = (res: string[], current: string, open: number, close: number, 
 const generateParenthesis = (n: number): string[] => {
   const res: string[] = [];
   backtrack(res, '', 0, 0, n);
+
   return res;
 };

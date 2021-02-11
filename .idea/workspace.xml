@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="2be32538-81a3-45d6-8f2c-dccfcb012e07" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/sort/quick-sort.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/sort/quick-sort.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/generate-parentheses.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/generate-parentheses.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,13 +49,15 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -72,6 +76,7 @@
       <workItem from="1612987078536" duration="929000" />
       <workItem from="1612988033863" duration="490000" />
       <workItem from="1612988542397" duration="9407000" />
+      <workItem from="1613060642909" duration="1818000" />
     </task>
     <servers />
   </component>
@@ -88,6 +93,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

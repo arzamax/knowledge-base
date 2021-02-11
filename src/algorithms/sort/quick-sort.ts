@@ -1,3 +1,5 @@
+// Not-optimized quick sort
+
 const simpleQuickSort = (arr: any[]): any[] => {
   if (arr.length < 2) return arr;
   const pivotIndex = Math.floor(Math.random() * arr.length);
@@ -17,6 +19,8 @@ const simpleQuickSort = (arr: any[]): any[] => {
 
   return [...simpleQuickSort(left), pivot, ...simpleQuickSort(right)];
 };
+
+// Optimized quick sort
 
 const partition = (arr: any[], left: number, right: number): number => {
   const middle = Math.floor((right + left) / 2);
