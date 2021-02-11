@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2be32538-81a3-45d6-8f2c-dccfcb012e07" name="Default Changelist" comment="" />
+    <list default="true" id="2be32538-81a3-45d6-8f2c-dccfcb012e07" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +18,7 @@
     <bower.json value="" />
   </component>
   <component name="ProjectId" id="1oHWN5g0oQiSjKhwh4KIvkzysya" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -70,12 +73,23 @@
       <workItem from="1612946118521" duration="5658000" />
       <workItem from="1612987078536" duration="929000" />
       <workItem from="1612988033863" duration="490000" />
-      <workItem from="1612988542397" duration="2607000" />
+      <workItem from="1612988542397" duration="4205000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
